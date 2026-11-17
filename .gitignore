@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Personal conversation memory (stays on my machine)
+memory.db
+*.db
+
+# macOS
+.DS_Store
